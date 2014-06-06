@@ -1,0 +1,2 @@
+module SurprizeHelper
+end
